@@ -4,4 +4,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
 SyntaxError: invalid syntax
 >>> print("Muji")
 Muji
->>> 
+>>> clear all
+hungry == input ("Are you hungry?")
+if hungry == "yes" :
+    else :
+        print ("Do your Work")
+        
